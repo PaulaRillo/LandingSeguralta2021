@@ -1,0 +1,858 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 10:04:15
+* VERSION: 3.8.8
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: WINNT                                 |WINNT
+PHP VERSION_________: 7.3.21                                |7.3.21
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.3.21 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.46 (Win64) PHP/7.3.21
+DOC ROOT____________: "C:/wamp64/www/LandingSeguralta2021"
+LOG FILE 644________: false
+REQUEST URL_________: "http://localhost/LandingSeguralta2021/dup-installer/main.installer.php"
+********************************************************************************
+INSTALLER INFO
+PATH_NEW____________: "C:/wamp64/www/LandingSeguralta2021"
+URL_NEW_____________: "http://localhost/LandingSeguralta2021"
+********************************************************************************
+
+--------------------------------------
+ARCHIVE INFO
+--------------------------------------
+ARCHIVE NAME________: "C:/wamp64/www/LandingSeguralta2021/20210329_franquiaseguralta_8651d06d58e35be61562_20210329203514_archive.zip"
+ARCHIVE SIZE________: 90.26MB
+CREATED_____________: 2021-03-29 20:35:14
+WP VERSION__________: 5.7
+DUP VERSION_________: 3.8.8
+DB VERSION__________: 5.7.31
+DB FILE SIZE________: 37.85MB
+DB TABLES___________: 23
+DB ROWS_____________: 1006
+ORIGINAL URL________: http://localhost/franquiaseguralta2021
+PATH HOME___________: C:/wamp64/www/franquiaseguralta2021
+PATH ABS____________: C:/wamp64/www/franquiaseguralta2021
+PATH WPCONFIG_______: C:/wamp64/www/franquiaseguralta2021
+PATH WPCONTENT______: C:/wamp64/www/franquiaseguralta2021/wp-content
+PATH UPLOADS________: C:/wamp64/www/franquiaseguralta2021/wp-content/uploads
+PATH PLUGINS________: C:/wamp64/www/franquiaseguralta2021/wp-content/plugins
+PATH MUPLUGINS______: C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins
+PATH THEMES_________: C:/wamp64/www/franquiaseguralta2021/wp-content/themes
+***  PLUGINS ***
+PLUGIN [SLUG:fusion-builder/fusion-builder.php                 ][ON:true ] Avada Builder
+PLUGIN [SLUG:fusion-core/fusion-core.php                       ][ON:true ] Avada Core
+PLUGIN [SLUG:fusion-white-label-branding/fusion-white-label-branding.php][ON:true ] Avada Custom Branding
+PLUGIN [SLUG:bravepopup-pro/index.php                          ][ON:true ] Brave Conversion Engine (PRO)
+PLUGIN [SLUG:page-or-post-clone/page-or-post-clone.php         ][ON:true ] CF Page or Post Duplicator
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ] Contact Form 7
+PLUGIN [SLUG:cf7-conditional-fields/contact-form-7-conditional-fields.php][ON:true ] Contact Form 7 Conditional Fields
+PLUGIN [SLUG:contact-form-cfdb7/contact-form-cfdb-7.php        ][ON:true ] Contact Form CFDB7
+PLUGIN [SLUG:country-phone-field-contact-form-7/country-phone-field-contact-form-7.php][ON:true ] Country & Phone Field Contact Form 7
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ] Duplicator Pro
+PLUGIN [SLUG:mask-contact-form/index.php                       ][ON:true ] Mask Contact Form
+PLUGIN [SLUG:wpcf7-redirect/wpcf7-redirect.php                 ][ON:true ] Redirection for Contact Form 7
+PLUGIN [SLUG:wp-smush-pro/wp-smush.php                         ][ON:true ] Smush Pro
+--------------------------------------
+--------------------------------------
+
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:04:15
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+HOME URL OLD________: "http://localhost/franquiaseguralta2021"
+HOME URL NEW________: "http://localhost/LandingSeguralta2021"
+SITE URL OLD________: "http://localhost/franquiaseguralta2021"
+SITE URL NEW________: "http://localhost/LandingSeguralta2021"
+CONTENT URL OLD_____: "http://localhost/franquiaseguralta2021/wp-content"
+CONTENT URL NEW_____: "http://localhost/LandingSeguralta2021/wp-content"
+UPLOAD URL OLD______: "http://localhost/franquiaseguralta2021/wp-content/uploads"
+UPLOAD URL NEW______: "http://localhost/LandingSeguralta2021/wp-content/uploads"
+PLUGINS URL OLD_____: "http://localhost/franquiaseguralta2021/wp-content/plugins"
+PLUGINS URL NEW_____: "http://localhost/LandingSeguralta2021/wp-content/plugins"
+MUPLUGINS URL OLD___: "http://localhost/franquiaseguralta2021/wp-content/mu-plugins"
+MUPLUGINS URL NEW___: "http://localhost/LandingSeguralta2021/wp-content/mu-plugins"
+HOME PATH OLD_______: "C:/wamp64/www/franquiaseguralta2021"
+HOME PATH NEW_______: "C:/wamp64/www/LandingSeguralta2021"
+SITE PATH OLD_______: "C:/wamp64/www/franquiaseguralta2021"
+SITE PATH NEW_______: "C:/wamp64/www/LandingSeguralta2021"
+CONTENT PATH OLD____: "C:/wamp64/www/franquiaseguralta2021/wp-content"
+CONTENT PATH NEW____: "C:/wamp64/www/LandingSeguralta2021/wp-content"
+UPLOAD PATH OLD_____: "C:/wamp64/www/franquiaseguralta2021/wp-content/uploads"
+UPLOAD PATH NEW_____: "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+PLUGINS PATH OLD____: "C:/wamp64/www/franquiaseguralta2021/wp-content/plugins"
+PLUGINS PATH NEW____: "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+MUPLUGINS PATH OLD__: "C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins"
+MUPLUGINS PATH NEW__: "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+ARCHIVE ENGINE______: "ziparchivechunking"
+CLIENT KICKOFF______: true
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "C:/wamp64/www/LandingSeguralta2021"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+LOG-TIME[C:\wamp64\www\LandingSeguralta2021\dup-installer\ctrls\ctrl.base.php:224][DELTA:   0.43875]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION validate
+
+-------------------------
+AJAX ACTION sparam_s1
+
+-------------------------
+AJAX ACTION validate
+
+-------------------------
+AJAX ACTION extract
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:05:09
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+HOME URL OLD________: "http://localhost/franquiaseguralta2021"
+HOME URL NEW________: "http://localhost/LandingSeguralta2021"
+SITE URL OLD________: "http://localhost/franquiaseguralta2021"
+SITE URL NEW________: "http://localhost/LandingSeguralta2021"
+CONTENT URL OLD_____: "http://localhost/franquiaseguralta2021/wp-content"
+CONTENT URL NEW_____: "http://localhost/LandingSeguralta2021/wp-content"
+UPLOAD URL OLD______: "http://localhost/franquiaseguralta2021/wp-content/uploads"
+UPLOAD URL NEW______: "http://localhost/LandingSeguralta2021/wp-content/uploads"
+PLUGINS URL OLD_____: "http://localhost/franquiaseguralta2021/wp-content/plugins"
+PLUGINS URL NEW_____: "http://localhost/LandingSeguralta2021/wp-content/plugins"
+MUPLUGINS URL OLD___: "http://localhost/franquiaseguralta2021/wp-content/mu-plugins"
+MUPLUGINS URL NEW___: "http://localhost/LandingSeguralta2021/wp-content/mu-plugins"
+HOME PATH OLD_______: "C:/wamp64/www/franquiaseguralta2021"
+HOME PATH NEW_______: "C:/wamp64/www/LandingSeguralta2021"
+SITE PATH OLD_______: "C:/wamp64/www/franquiaseguralta2021"
+SITE PATH NEW_______: "C:/wamp64/www/LandingSeguralta2021"
+CONTENT PATH OLD____: "C:/wamp64/www/franquiaseguralta2021/wp-content"
+CONTENT PATH NEW____: "C:/wamp64/www/LandingSeguralta2021/wp-content"
+UPLOAD PATH OLD_____: "C:/wamp64/www/franquiaseguralta2021/wp-content/uploads"
+UPLOAD PATH NEW_____: "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+PLUGINS PATH OLD____: "C:/wamp64/www/franquiaseguralta2021/wp-content/plugins"
+PLUGINS PATH NEW____: "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+MUPLUGINS PATH OLD__: "C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins"
+MUPLUGINS PATH NEW__: "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+ARCHIVE ENGINE______: "ziparchivechunking"
+CLIENT KICKOFF______: false
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "C:/wamp64/www/LandingSeguralta2021"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0159 sec. - Files processed: 1380 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 1380
+CHUNK COMPLETE - RUNTIME: 5.0432 sec. - Files processed: 1473 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 1473
+CHUNK COMPLETE - RUNTIME: 5.0278 sec. - Files processed: 1633 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 1633
+CHUNK COMPLETE - RUNTIME: 5.0192 sec. - Files processed: 1869 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 1869
+CHUNK COMPLETE - RUNTIME: 5.0740 sec. - Files processed: 2061 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 2061
+CHUNK COMPLETE - RUNTIME: 5.0131 sec. - Files processed: 2376 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 2376
+CHUNK COMPLETE - RUNTIME: 5.0110 sec. - Files processed: 2649 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 2649
+CHUNK COMPLETE - RUNTIME: 5.0203 sec. - Files processed: 2873 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 2873
+CHUNK COMPLETE - RUNTIME: 5.1520 sec. - Files processed: 3106 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 3106
+CHUNK COMPLETE - RUNTIME: 5.0148 sec. - Files processed: 3174 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 3174
+CHUNK COMPLETE - RUNTIME: 5.0327 sec. - Files processed: 3703 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 3703
+CHUNK COMPLETE - RUNTIME: 5.0231 sec. - Files processed: 4012 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 4012
+CHUNK COMPLETE - RUNTIME: 5.0359 sec. - Files processed: 4213 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 4213
+CHUNK COMPLETE - RUNTIME: 5.0318 sec. - Files processed: 4508 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 4508
+CHUNK COMPLETE - RUNTIME: 5.0442 sec. - Files processed: 4861 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 4861
+CHUNK COMPLETE - RUNTIME: 5.0190 sec. - Files processed: 5090 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 5090
+CHUNK COMPLETE - RUNTIME: 5.0191 sec. - Files processed: 5214 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 5214
+CHUNK COMPLETE - RUNTIME: 5.0276 sec. - Files processed: 5419 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 5419
+CHUNK COMPLETE - RUNTIME: 5.0581 sec. - Files processed: 5627 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 5627
+CHUNK COMPLETE - RUNTIME: 5.0328 sec. - Files processed: 6209 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 6209
+CHUNK COMPLETE - RUNTIME: 5.1559 sec. - Files processed: 6568 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 6568
+CHUNK COMPLETE - RUNTIME: 5.0708 sec. - Files processed: 6771 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 6771
+CHUNK COMPLETE - RUNTIME: 5.0201 sec. - Files processed: 7065 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 7065
+CHUNK COMPLETE - RUNTIME: 5.1041 sec. - Files processed: 7444 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 7444
+CHUNK COMPLETE - RUNTIME: 5.0378 sec. - Files processed: 7636 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 7636
+CHUNK COMPLETE - RUNTIME: 5.0589 sec. - Files processed: 8091 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 8091
+CHUNK COMPLETE - RUNTIME: 5.0280 sec. - Files processed: 8527 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 8527
+CHUNK COMPLETE - RUNTIME: 5.0210 sec. - Files processed: 8828 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 8828
+CHUNK COMPLETE - RUNTIME: 5.0589 sec. - Files processed: 9001 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 9001
+CHUNK COMPLETE - RUNTIME: 5.2412 sec. - Files processed: 9296 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 9296
+CHUNK COMPLETE - RUNTIME: 5.0301 sec. - Files processed: 9546 of 9635
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 9546
+Archive just got done processing last file in list of 9865
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini file was not reset or backed up.
+- web.config file was not reset or backed up.
+
+EXTRACTION COMPLETE @ 10:07:55 - RUNTIME: 166.0980 sec. - Files processed: 9635 of 9635
+LOG-TIME[C:\wamp64\www\LandingSeguralta2021\dup-installer\ctrls\ctrl.base.php:224][DELTA:   0.14412]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION sparam_s2
+
+-------------------------
+AJAX ACTION dbtest
+
+-------------------------
+AJAX ACTION sparam_s2
+
+-------------------------
+AJAX ACTION dbtest
+
+-------------------------
+AJAX ACTION dbinstall
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 10:09:36
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+NON-BREAKING SPACES_: false
+CHARSET_____________: "utf8"
+CHARSET FB__________: false
+CHARSET FB VAL______: "big5"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+COLLATE FB VAL______: "big5_chinese_ci"
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.31 -- Build Server: 5.7.31
+FILE SIZE:	dup-database__8651d06-29203514.sql (38.27MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+COLLATE FB:	Off
+DB CHUNKING:	enabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	95
+
+TABLES ROWS
+
+TABLE "wp_bravepopup_goal_stats"________________________[ROWS:     0]
+TABLE "wp_bravepopup_stats"_____________________________[ROWS:     4]
+TABLE "wp_bravepopup_submissions"_______________________[ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     1]
+TABLE "wp_db7_forms"____________________________________[ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     5]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     0]
+TABLE "wp_fusion_form_entries"__________________________[ROWS:     0]
+TABLE "wp_fusion_form_fields"___________________________[ROWS:     0]
+TABLE "wp_fusion_form_submissions"______________________[ROWS:     0]
+TABLE "wp_fusion_forms"_________________________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   195]
+TABLE "wp_postmeta"_____________________________________[ROWS:   407]
+TABLE "wp_posts"________________________________________[ROWS:   235]
+TABLE "wp_smush_dir_images"_____________________________[ROWS:     0]
+TABLE "wp_term_relationships"___________________________[ROWS:     9]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     4]
+TABLE "wp_termmeta"_____________________________________[ROWS:    14]
+TABLE "wp_terms"________________________________________[ROWS:     4]
+TABLE "wp_usermeta"_____________________________________[ROWS:    44]
+TABLE "wp_users"________________________________________[ROWS:     2]
+
+DATABASE CACHE/TRANSITIENT [ROWS:    82]
+
+INSERT DATA RUNTIME: 2.3982 sec.
+STEP-2 COMPLETE @ 10:09:38 - RUNTIME: 2.3985 sec.
+LOG-TIME[C:\wamp64\www\LandingSeguralta2021\dup-installer\ctrls\ctrl.base.php:224][DELTA:   0.26937]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION sparam_s3
+
+-------------------------
+AJAX ACTION webupdate
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [init][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 10:10:33
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Franquia Seguralta"
+url_old_______________: "http://localhost/franquiaseguralta2021"
+url_new_______________: "http://localhost/LandingSeguralta2021"
+siteurl_______________: "http://localhost/LandingSeguralta2021"
+path_new______________: "C:/wamp64/www/LandingSeguralta2021"
+path_old______________: "C:/wamp64/www/franquiaseguralta2021"
+replace_mode__________: "legacy"
+empty_schedule_storage: true
+mode_chunking_________: 2
+wp_username___________: "admin"
+wp_mail_______________: "paularillo@gmail.com"
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+cross_search__________: true
+postguid______________: false
+fullsearch____________: false
+replaceMail___________: false
+maxSerializeStrlen____: 4000000
+auth_keys_and_salts___: false
+mu_replace____________: Array
+(
+)
+
+action_mu_mode________: -1
+DISALLOW_FILE_EDIT____: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+AUTOSAVE_INTERVAL_____: Array
+(
+    [value] => 60
+    [inWpConfig] => 
+)
+
+WP_POST_REVISIONS_____: Array
+(
+    [value] => 9223372036854775807
+    [inWpConfig] => 
+)
+
+FORCE_SSL_ADMIN_______: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_AUTO_UPDATE_CORE___: Array
+(
+    [value] => false
+    [inWpConfig] => 
+)
+
+WP_CACHE______________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WPCACHEHOME___________: Array
+(
+    [value] => /
+    [inWpConfig] => 
+)
+
+WP_DEBUG______________: Array
+(
+    [value] => 
+    [inWpConfig] => 1
+)
+
+WP_DEBUG_LOG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_DEBUG_DISPLAY______: Array
+(
+    [value] => 1
+    [inWpConfig] => 
+)
+
+SCRIPT_DEBUG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+SAVEQUERIES___________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+COOKIE_DOMAIN_________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_MEMORY_LIMIT_______: Array
+(
+    [value] => 40M
+    [inWpConfig] => 
+)
+
+WP_MAX_MEMORY_LIMIT___: Array
+(
+    [value] => 512M
+    [inWpConfig] => 
+)
+
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 50
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+
+EVALUATE TABLE: "wp_bravepopup_goal_stats"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bravepopup_stats"_____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_bravepopup_stats][0]
+
+EVALUATE TABLE: "wp_bravepopup_submissions"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_db7_forms"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fusion_form_entries"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fusion_form_fields"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fusion_form_submissions"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fusion_forms"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   195][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:   407][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   235][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_smush_dir_images"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_relationships][0]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    44][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"C:/wamp64/www/franquiaseguralta2021/wp-content/uploads" => "C:/wamp64/www/LandingSeguralta2021/wp-content/uploads"
+	SEARCH[path ]  2:"C:/wamp64/www/franquiaseguralta2021/wp-content/plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/plugins"
+	SEARCH[path ]  3:"C:/wamp64/www/franquiaseguralta2021/wp-content/mu-plugins" => "C:/wamp64/www/LandingSeguralta2021/wp-content/mu-plugins"
+	SEARCH[path ]  4:"C:/wamp64/www/franquiaseguralta2021/wp-content" ==> "C:/wamp64/www/LandingSeguralta2021/wp-content"
+	SEARCH[path ]  5:"C:/wamp64/www/franquiaseguralta2021" =============> "C:/wamp64/www/LandingSeguralta2021"
+	SEARCH[urlnd]  6:"http://localhost/franquiaseguralta2021" ==========> "http://localhost/LandingSeguralta2021"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+--------------------------------------
+SCANNED:	Tables:23 	|	 Rows:924 	|	 Cells:8174 
+UPDATED:	Tables:4 	|	 Rows:232 	|	 Cells:366 
+ERRORS:		0 
+RUNTIME:	4.125800 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""landingseguralta2021""
+	UPDATE DB_USER ""root""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	WP CONFIG UPDATE WP_DEBUG false
+	
+*** UPDATED WP CONFIG FILE ***
+CHUNK ACTION: CURRENT [htaccess_update][][]
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+- Removed '0' schedule storage items
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+ - Username 'admin' already exists in the database.  Unable to create new account.
+
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+NOTICES TEST
+====================================
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:10:38 - RUNTIME: 4.5460 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] Info
+	SECTIONS: general
+	LONG MSG: The following is a list of notices that may need to be fixed in order to finalize your setup.
+These values should only be investigated if you're running into issues with your site.
+For more details see the <a href="https://codex.wordpress.org/Editing_wp-config.php" target="_blank">WordPress Codex</a>.
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[WARNING] New admin user create error
+	SECTIONS: general
+	LONG MSG: 
+NEW WP-ADMIN USER:
+ - Username 'admin' already exists in the database.  Unable to create new account.
+
+
+====================================
+LOG-TIME[C:\wamp64\www\LandingSeguralta2021\dup-installer\ctrls\ctrl.base.php:224][DELTA:   0.22644]  MESSAGE:END RENDER PAGE
